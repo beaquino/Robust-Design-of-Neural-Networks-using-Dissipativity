@@ -1,0 +1,7 @@
+matplotlib
+numpy
+pandas
+seaborn
+tensorflow==1.15.4
+IPython
+sklearn
